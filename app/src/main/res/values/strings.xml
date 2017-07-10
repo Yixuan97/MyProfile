@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Profile</string>
+    <string name="name">name</string>
+    <string name="gpa">gpa</string>
+    <string name="gender">gender</string>
+    <string name="male">male</string>
+    <string name="female">female</string>
+    <string name="likeProgramming">likeProgramming</string>
+    <string name="yesAnswer">yes</string>
+    </resources>
